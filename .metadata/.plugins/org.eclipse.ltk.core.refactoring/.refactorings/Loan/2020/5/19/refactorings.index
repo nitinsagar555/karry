@@ -1,0 +1,20 @@
+1588680485188	Rename package 'com.example.Loan'
+1588680506245	Rename package 'com.example'
+1588680520848	Rename package 'com.example.controller'
+1588680541135	Rename package 'com.example.model'
+1588701175924	Delete element
+1588701186038	Delete element
+1588770696353	Delete element
+1588839553654	Delete element
+1588840881428	Delete element
+1588842538965	Delete element
+1588842643990	Rename compilation unit 'LoanDuplicate.java'
+1588842795327	Rename type 'LoanDuplicateDao'
+1588843689849	Rename package 'com.loan.mapper'
+1588843752927	Rename package 'com.loan.dao'
+1588843766330	Delete element
+1588843820042	Move compilation units
+1588863301817	Rename type 'LoanBorrower'
+1588864804940	Rename type 'LoanBorrowerpropertyAddress'
+1588864850443	Rename type 'LoanBorrowerPropertyAddress'
+1588874568215	Rename type 'LoanBorrowerpropertyAddress'

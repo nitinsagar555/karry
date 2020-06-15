@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\nitin.kumar\Java-workspace\springboot-session-management-master"/>
+			<item value="C:\Users\nitin.kumar\Java-workspace\Spring-Boot-Session-Example"/>
+			<item value="C:\Users\nitin.kumar\Java-workspace\onlineEducation"/>
+			<item value="C:\Users\nitin.kumar\Java-workspace\Loan"/>
+			<item value="C:\Users\nitin.kumar\Java-workspace\Borrower"/>
+			<item value="C:\Users\nitin.kumar\Java-workspace\hello"/>
+			<item value="C:\Users\nitin.kumar\Java-workspace\demo"/>
+			<item value="C:\Users\nitin.kumar\Java-workspace\hello-world-spring-4-master"/>
+			<item value="C:\Users\nitin.kumar\Java-workspace\Hello world"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

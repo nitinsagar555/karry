@@ -1,0 +1,5 @@
+package com.borrower.repository;
+
+public interface UserRepository {
+
+}

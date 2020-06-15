@@ -1,0 +1,5 @@
+package com.borrower.model;
+
+public class User {
+
+}
